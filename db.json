@@ -1,5 +1,5 @@
 {
-    "product": [
+    "products": [
         {
             "id": 1,
             "name": "Botol Air EcoBreeze",
@@ -124,5 +124,5 @@
             ],
             "variants": []
         },
-    ],
+    ]
 }
