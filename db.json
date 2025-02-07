@@ -1,316 +1,156 @@
 {
-    "product": [
+  "products": [
+    {
+      "id": 1,
+      "name": "KEFA BLOUSE - Atasan blouse Wanita murah Blouse Polos lengan Panjang A42 All Size White",
+      "description": "Bahan : Uniqlo Knit mix Cotton\n-\nLingkar Dada : 130 cm\nPanjang Tangan : 53 cm\nPanjang Baju : 76 cm\n-\nBerat Produk : 290 Gram\nPilihan Warna : Black & Mocca\nBisa COD (bayar di tempat)\nPengiriman dilakukan di setiap hari\nKemiripan warna barang dengan gambar 95% dikarenakan pengaturan cahaya layar berbeda-beda\nFree ongkir sesuai ketentuan\nTerima Dropship (isi kolom dropship dengan mencantumkan nama + no hp pengirim)\nSelagi masih ada barang msh bisa di order sesuai stock yg tersedia\nProses pencucian bisa menggunakan mesin cuci\n\nHAPPY SHOPPING",
+      "price": 90700,
+      "discount_price": 50000,
+      "images": [
         {
-            "id": 1,
-            "name": "Botol Air EcoBreeze",
-            "description": "Botol air multifungsi berkapasitas 750 ml yang terbuat dari bahan Tritan bebas BPA, memastikan minuman tetap segar dan aman dikonsumsi. Dilengkapi dengan penutup anti-bocor dan pegangan silikon yang nyaman untuk dibawa saat beraktivitas, seperti berolahraga atau bepergian. Desain elegan dan ramah lingkungan ini juga tahan terhadap suhu tinggi dan dapat digunakan untuk minuman panas maupun dingin.",
-            "price": 90700,
-            "discount_price": 50000,
-            "images": [
-                {
-                    "image_url": "https://picsum.photos/id/691/500/500"
-                },
-                {
-                    "image_url": "https://picsum.photos/id/30/500/500"
-                }
-            ],
-            "variants": []
+          "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/e211403b-6dfb-4b3b-a337-d893f64f92fc"
         },
         {
-            "id": 2,
-            "name": "Earbuds Nirkabel TechNova Plus",
-            "description": "Nikmati pengalaman audio yang mendalam dengan TechNova Plus. Earbuds ini dilengkapi dengan teknologi peredam bising aktif (ANC) dan konektivitas Bluetooth 5.2 yang stabil. Dengan baterai tahan hingga 8 jam pemakaian terus-menerus dan tambahan 24 jam dari casing pengisi daya, TechNova Plus adalah pilihan sempurna untuk mendengarkan musik, podcast, atau melakukan panggilan telepon tanpa gangguan.",
-            "price": 130000,
-            "discount_price": 120000,
-            "images": [
-                {
-                    "image_url": "https://picsum.photos/id/39/500/500"
-                }
-            ],
-            "variants": [
-                {
-                    "code": "grey",
-                    "label": "Abu",
-                    "images": [
-                        {
-                            "image_url": "https://picsum.photos/id/39/500/500"
-                        }
-                    ]
-                },
-                {
-                    "code": "black",
-                    "label": "Hitam",
-                    "images": [
-                        {
-                            "image_url": "https://picsum.photos/id/145/500/500"
-                        }
-                    ]
-                },
-                {
-                    "code": "dustypink",
-                    "label": "Dusty Pink",
-                    "images": [
-                        {
-                            "image_url": "https://picsum.photos/id/160/500/500"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 3,
-            "name": "VeloxPro Fitness Tracker 2.0",
-            "description": "Pelacak kebugaran canggih yang membantu Anda memantau kesehatan dan aktivitas sehari-hari. Fitur meliputi penghitungan langkah, pemantauan detak jantung 24/7, pelacakan tidur otomatis, dan pengingat untuk bergerak. Layar AMOLED berwarna yang responsif memberikan informasi real-time dengan jelas, sementara daya tahan baterainya mencapai 10 hari penggunaan.",
-            "price": 275000,
-            "discount_price": 0,
-            "images": [
-                {
-                    "image_url": "https://picsum.photos/id/169/500/500"
-                }
-            ],
-            "variants": [
-                {
-                    "code": "bluecaramel",
-                    "label": "Blue Caramel",
-                    "images": [
-                        {
-                            "image_url": "https://picsum.photos/id/169/500/500"
-                        }
-                    ]
-                },
-                {
-                    "code": "goldviolet",
-                    "label": "Gold Violet",
-                    "images": [
-                        {
-                            "image_url": "https://picsum.photos/id/166/500/500"
-                        }
-                    ]
-                },
-                {
-                    "code": "orientalnude",
-                    "label": "Oriental Nude",
-                    "images": [
-                        {
-                            "image_url": "https://picsum.photos/id/175/500/500"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 4,
-            "name": "Lampu Aromaterapi ZenGlow Sense",
-            "description": "ZenGlow Sense adalah perpaduan sempurna antara diffuser essential oil dan lampu ambient dengan tujuh pilihan warna yang dapat diubah sesuai suasana hati Anda. Tangki air berkapasitas 500 ml memungkinkan penyebaran aroma hingga 8 jam tanpa henti. Ideal untuk menciptakan suasana relaksasi di rumah, kantor, atau ruang meditasi Anda.",
-            "price": 90700,
-            "discount_price": 50000,
-            "images": [
-                {
-                    "image_url": "https://picsum.photos/id/158/500/500"
-                }
-            ],
-            "variants": []
-        },
-        {
-            "id": 5,
-            "name": "Set Pisau Dapur ChefMate Precision",
-            "description": "Set pisau dapur premium dengan 5 pisau stainless steel berteknologi anti-karat, dirancang untuk memotong dengan presisi tinggi. Pegangan ergonomisnya memberikan kenyamanan maksimal saat digunakan dalam waktu lama. Set ini dilengkapi dengan blok kayu elegan yang membuat dapur Anda terlihat profesional dan rapi.",
-            "price": 130000,
-            "discount_price": 120000,
-            "images": [
-                {
-                    "image_url": "https://picsum.photos/id/284/500/500"
-                }
-            ],
-            "variants": []
-        },
-        {
-            "id": 6,
-            "name": "Dompet Pintar LuxeLeather Guard",
-            "description": "Dompet pintar yang dirancang untuk keamanan dan kemudahan penggunaan. Dilengkapi dengan teknologi RFID-blocking untuk melindungi data kartu Anda dari pencurian digital. Fitur pelacak Bluetooth bawaan terhubung dengan aplikasi smartphone, sehingga Anda dapat dengan mudah menemukan dompet yang hilang. Terbuat dari kulit asli dengan desain minimalis nan elegan.",
-            "price": 275000,
-            "discount_price": 0,
-            "images": [
-                {
-                    "image_url": "https://picsum.photos/id/336/500/500"
-                }
-            ],
-            "variants": []
-        },
-        {
-            "id": 7,
-            "name": "Penyaring Udara HomePure FreshGuard",
-            "description": "HomePure FreshGuard dilengkapi dengan filter HEPA generasi terbaru yang mampu menyaring hingga 99,97% partikel debu, alergen, dan polusi udara. Alat ini juga memiliki filter karbon aktif untuk menghilangkan bau tidak sedap serta mode malam yang beroperasi dengan suara senyap. Cocok untuk ruangan berukuran hingga 50 meter persegi.",
-            "price": 275000,
-            "discount_price": 0,
-            "images": [
-                {
-                    "image_url": "https://picsum.photos/id/401/500/500"
-                }
-            ],
-            "variants": [
-                {
-                    "code": "bluecaramel",
-                    "label": "Blue Caramel",
-                    "images": [
-                        {
-                            "image_url": "https://picsum.photos/id/401/500/500"
-                        }
-                    ]
-                },
-                {
-                    "code": "goldviolet",
-                    "label": "Gold Violet",
-                    "images": [
-                        {
-                            "image_url": "https://picsum.photos/id/409/500/500"
-                        }
-                    ]
-                },
-                {
-                    "code": "orientalnude",
-                    "label": "Oriental Nude",
-                    "images": [
-                        {
-                            "image_url": "https://picsum.photos/id/444/500/500"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 8,
-            "name": "PowerMax Portable Charger 20.000mAh Ultra",
-            "description": "Power bank berkapasitas besar yang dapat mengisi daya hingga 4 perangkat sekaligus. Dilengkapi dengan teknologi Power Delivery (PD) dan Quick Charge 3.0 untuk pengisian cepat. Desainnya ringkas dengan bodi tahan benturan serta indikator LED untuk menunjukkan sisa daya.",
-            "price": 90700,
-            "discount_price": 50000,
-            "images": [
-                {
-                    "image_url": "https://picsum.photos/id/445/500/500"
-                }
-            ],
-            "variants": []
-        },
-        {
-            "id": 9,
-            "name": "Bantal Memory Foam SilkDream Supreme",
-            "description": "Bantal berkualitas premium dengan inti memory foam yang mengikuti bentuk kepala dan leher Anda, memberikan dukungan optimal untuk tidur nyenyak. Dilengkapi dengan sarung bantal hypoallergenic yang dapat dilepas dan dicuci, serta teknologi pendingin yang menjaga suhu tetap nyaman sepanjang malam.",
-            "price": 130000,
-            "discount_price": 120000,
-            "images": [
-                {
-                    "image_url": "https://picsum.photos/id/486/500/500"
-                }
-            ],
-            "variants": []
-        },
-        {
-            "id": 10,
-            "name": "Ransel Anti-Maling UrbanVibe SecurePack",
-            "description": "Ransel inovatif dengan fitur keamanan tingkat tinggi seperti ritsleting tersembunyi, kantong rahasia, dan bahan tahan potong. Port USB eksternal memungkinkan pengisian daya perangkat saat bepergian. Desain ergonomis dan bantalan punggung empuk memberikan kenyamanan maksimal meskipun digunakan sepanjang hari.",
-            "price": 275000,
-            "discount_price": 0,
-            "images": [
-                {
-                    "image_url": "https://picsum.photos/id/619/500/500"
-                }
-            ],
-            "variants": []
+          "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/d71ed115-eb20-474e-84d5-a5a254bd7293"
         }
-    ],
-    "recomendation-product": [
+      ],
+      "variants": []
+    },
+    {
+      "id": 2,
+      "name": "MAMY Gallery - Baju Gamis Fedora Dress Rompi (Premium Quality)",
+      "description": "KEUNTUNGAN BERBELANJA PRODUK MAMY Gallery\n\n- Barang Original Brand kami sendiri\n- Produk made by Love dengan Desain dan Kualitas Jahit terbaik melalui 2x proses Quality Control (QC)\n- Mendapatkan Garansi Produk jika produk yang diterima tidak sesuai pesanan atau terdapat kerusakan akibat kesalahan dari kami. Dengan syarat, konsumen memberikan video unboxing tanpa putus dari proses awal sampai akhir (tidak di cut2)\n- Berkesempatan mendapatkan Misterious Gift\n- Foto produk yang terpajang adalah foto produk real baik Foto Flatlay (Gantung) maupun foto On Model (yang dikenakan oleh model)\n- Produk kami sudah diakui kualitasnya di beberapa Mall serta berbagai Butik atau Online Shop baik offline maupun online\n- Bahan yang kami gunakan adalah bahan pilihan dengan kualitas tebaik\n- Terbuka kesempatan untuk menjadi Reseller dengan besaran margin keuntungan mulai dari 5% s.d 25% sesuai dengan jenis produknya\n\nTIPS PERAWATAN PRODUK\n- Rendam produk dengan sedikit deterjer selama kurang lebih 10 -15 menit saja\n- Sikat hanya pada bagian yang tekena noda\n- Bilas atau kucek menggunakan tangan, jika harus menggunakan mesin cuci usakan untuk menggunakan kecepatan sedang dan kapasitas cucian tidak terlalu berat\n- Gantung produk pada jemuran untuk mengeringkan, apabila harus menggunakan mesin cuci atur pengering dengan kecepatan sedang\n- Setrika produk dengan suhu rendah, jika memerlukan suhu agak tinggi, gunakan pelapis tambahan agar produk tidak rusak\n\nWARNING\n- Jangan memeras terlalu kencang\n- Jangan mengunakan pemutih pakaian\n- Jangan menyetrika dengan suhu terlalu tinggi tanpa lapisan tambahan\n\nFEDORA GAMIS ROMPI (Premium Quality)\n\nCheck this out !\n\nDetails :\nBahan airflow premium, flowy, empuk, halus\nLD 110 cm PB 133-135 cm\nBusui & Wudhu Friendly\nTali serut depan\nFit to XL\n\nInstruksi Pencucian\n- dapat menggunakan mesin cuci atau manual\n- cuci secara terbalik\n- jangan gunakan pemutih\n\nCatatan :\nWarna pada foto produk sudah disesuaikan dengan warna aslinya. Jika ada perbedaan 10% dipengaruhi cahaya serta layar pada gawai yang sedang digunakan",
+      "price": 130000,
+      "discount_price": 120000,
+      "images": [
         {
-            "id": 2,
-            "name": "Earbuds Nirkabel TechNova Plus",
-            "description": "Nikmati pengalaman audio yang mendalam dengan TechNova Plus. Earbuds ini dilengkapi dengan teknologi peredam bising aktif (ANC) dan konektivitas Bluetooth 5.2 yang stabil. Dengan baterai tahan hingga 8 jam pemakaian terus-menerus dan tambahan 24 jam dari casing pengisi daya, TechNova Plus adalah pilihan sempurna untuk mendengarkan musik, podcast, atau melakukan panggilan telepon tanpa gangguan.",
-            "price": 130000,
-            "discount_price": 120000,
-            "images": [
-                {
-                    "image_url": "https://picsum.photos/id/39/500/500"
-                }
-            ],
-            "variants": [
-                {
-                    "code": "grey",
-                    "label": "Abu",
-                    "images": [
-                        {
-                            "image_url": "https://picsum.photos/id/39/500/500"
-                        }
-                    ]
-                },
-                {
-                    "code": "black",
-                    "label": "Hitam",
-                    "images": [
-                        {
-                            "image_url": "https://picsum.photos/id/145/500/500"
-                        }
-                    ]
-                },
-                {
-                    "code": "dustypink",
-                    "label": "Dusty Pink",
-                    "images": [
-                        {
-                            "image_url": "https://picsum.photos/id/160/500/500"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 4,
-            "name": "Lampu Aromaterapi ZenGlow Sense",
-            "description": "ZenGlow Sense adalah perpaduan sempurna antara diffuser essential oil dan lampu ambient dengan tujuh pilihan warna yang dapat diubah sesuai suasana hati Anda. Tangki air berkapasitas 500 ml memungkinkan penyebaran aroma hingga 8 jam tanpa henti. Ideal untuk menciptakan suasana relaksasi di rumah, kantor, atau ruang meditasi Anda.",
-            "price": 90700,
-            "discount_price": 50000,
-            "images": [
-                {
-                    "image_url": "https://picsum.photos/id/158/500/500"
-                }
-            ],
-            "variants": []
-        },
-        {
-            "id": 6,
-            "name": "Dompet Pintar LuxeLeather Guard",
-            "description": "Dompet pintar yang dirancang untuk keamanan dan kemudahan penggunaan. Dilengkapi dengan teknologi RFID-blocking untuk melindungi data kartu Anda dari pencurian digital. Fitur pelacak Bluetooth bawaan terhubung dengan aplikasi smartphone, sehingga Anda dapat dengan mudah menemukan dompet yang hilang. Terbuat dari kulit asli dengan desain minimalis nan elegan.",
-            "price": 275000,
-            "discount_price": 0,
-            "images": [
-                {
-                    "image_url": "https://picsum.photos/id/336/500/500"
-                }
-            ],
-            "variants": []
-        },
-        {
-            "id": 8,
-            "name": "PowerMax Portable Charger 20.000mAh Ultra",
-            "description": "Power bank berkapasitas besar yang dapat mengisi daya hingga 4 perangkat sekaligus. Dilengkapi dengan teknologi Power Delivery (PD) dan Quick Charge 3.0 untuk pengisian cepat. Desainnya ringkas dengan bodi tahan benturan serta indikator LED untuk menunjukkan sisa daya.",
-            "price": 90700,
-            "discount_price": 50000,
-            "images": [
-                {
-                    "image_url": "https://picsum.photos/id/445/500/500"
-                }
-            ],
-            "variants": []
-        },
-        {
-            "id": 10,
-            "name": "Ransel Anti-Maling UrbanVibe SecurePack",
-            "description": "Ransel inovatif dengan fitur keamanan tingkat tinggi seperti ritsleting tersembunyi, kantong rahasia, dan bahan tahan potong. Port USB eksternal memungkinkan pengisian daya perangkat saat bepergian. Desain ergonomis dan bantalan punggung empuk memberikan kenyamanan maksimal meskipun digunakan sepanjang hari.",
-            "price": 275000,
-            "discount_price": 0,
-            "images": [
-                {
-                    "image_url": "https://picsum.photos/id/619/500/500"
-                }
-            ],
-            "variants": []
+          "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/9996dee3-bdca-4b1a-ae34-3546b29eb309"
         }
-    ]
+      ],
+      "variants": [
+        {
+          "code": "grey",
+          "label": "Abu",
+          "images": [
+            {
+              "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/53abc302-b46e-49a5-ab50-5f7f1aeecf70"
+            },
+            {
+              "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/816e8533-6795-4005-bdc5-8e2daec09a56"
+            },
+            {
+              "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/9c238fb4-8d6d-49da-928f-81777c56764c"
+            }
+          ]
+        },
+        {
+          "code": "denim",
+          "label": "Denim",
+          "images": [
+            {
+              "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/fe800854-4c6f-493f-b64b-cd2ddb95021c"
+            },
+            {
+              "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/7463492f-0ee2-47fe-97f1-e94f8684737f"
+            }
+          ]
+        },
+        {
+          "code": "dustypink",
+          "label": "Dusty Pink",
+          "images": [
+            {
+              "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/033c8b36-1b96-4279-b87c-3686a008f12a"
+            },
+            {
+              "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/2bb64ca1-4640-404c-a3b6-f2820f7b9476"
+            },
+            {
+              "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/23aa4dbc-83b4-40f8-b630-8b212b95cdb2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "KhadijahLabel - [PO] Mukena Dewasa Jumbo Mukena Premium Silk Renda Mukena Mewah Terbaru Arunika",
+      "description": "[PO Maksimal 7 Hari]\n\nMukena Dewasa Jumbo Premium Silk Renda Mewah Terbaru Arunika\nKhadijahLabel, Sahabat Setia Muslimah\n.\nDetail Produk  :\nBahan : Dior SIlk\nBerat : 980 Gram (1 KG cukup 1 pcs )\nIkat Kepala : Ikat Kepala Tali Manual\nBagian Dahi : Tanpa Karet\nBagian Wajah : Terdapat Renda Kecil\nResleting di bagian dada (Model  2 in 1)\nPaket : Mukena Set (Atasan – Bawahan) Include Tas \nInclude : Tas Permium Multifungsi\n**Pola Motif akan Berbeda dikarenakan pola potongan berbeda di setiap produk\n.\nDetail Ukuran +/- ( Jumbo )\nPanjang Mukena Atasan Depan 125 - 130 cm, Belakang 140 - 145 cm\nPanjang Bawahan 110 - 115 cm\nLebar Bawahan 70 – 75 cm\nLebar Muka 24 -26 cm\nPanjang Tas 28 cm , Lebar Tas 19 cm , Tinggi Tas 22 cm\n.\nSaran Pencucian :\n- Disarankan penyuciannya hanya di rendam dan di kucek sedikit\n- Khusus untuk kain berwarna, jangan dicuci menggunakan pemutih\n- Setrika dengan suhu rendah\n\nNote: tidak mendapatkan paper ba",
+      "price": 275000,
+      "discount_price": 0,
+      "images": [
+        {
+          "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/8c2578c7-acc0-4619-b113-e5a83553e76d"
+        }
+      ],
+      "variants": [
+        {
+          "code": "bluecaramel",
+          "label": "Blue Caramel",
+          "images": [
+            {
+              "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/f842de01-8fbc-4d90-99e3-d2d678407478"
+            }
+          ]
+        },
+        {
+          "code": "goldviolet",
+          "label": "Gold Violet",
+          "images": [
+            {
+              "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/11190dee-2512-4c05-9c44-62275498b1a5"
+            }
+          ]
+        },
+        {
+          "code": "orientalnude",
+          "label": "Oriental Nude",
+          "images": [
+            {
+              "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/a994d290-658d-4de1-99d3-1b6fc7186627"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "KEFA BLOUSE - Atasan blouse Wanita murah Blouse Polos lengan Panjang A42 All Size White",
+      "description": "Bahan : Uniqlo Knit mix Cotton\n-\nLingkar Dada : 130 cm\nPanjang Tangan : 53 cm\nPanjang Baju : 76 cm\n-\nBerat Produk : 290 Gram\nPilihan Warna : Black & Mocca\nBisa COD (bayar di tempat)\nPengiriman dilakukan di setiap hari\nKemiripan warna barang dengan gambar 95% dikarenakan pengaturan cahaya layar berbeda-beda\nFree ongkir sesuai ketentuan\nTerima Dropship (isi kolom dropship dengan mencantumkan nama + no hp pengirim)\nSelagi masih ada barang msh bisa di order sesuai stock yg tersedia\nProses pencucian bisa menggunakan mesin cuci\n\nHAPPY SHOPPING",
+      "price": 90700,
+      "discount_price": 50000,
+      "images": [
+        {
+          "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/e211403b-6dfb-4b3b-a337-d893f64f92fc"
+        }
+      ],
+      "variants": []
+    },
+    {
+      "id": 5,
+      "name": "MAMY Gallery - Baju Gamis Fedora Dress Rompi (Premium Quality)",
+      "description": "Lorem ipsum",
+      "price": 130000,
+      "discount_price": 120000,
+      "images": [
+        {
+          "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/9996dee3-bdca-4b1a-ae34-3546b29eb309"
+        }
+      ],
+      "variants": []
+    },
+    {
+      "id": 6,
+      "name": "KhadijahLabel - [PO] Mukena Dewasa Jumbo Mukena Premium Silk Renda Mukena Mewah Terbaru Arunika",
+      "description": "Lorem ipsum",
+      "price": 275000,
+      "discount_price": 0,
+      "images": [
+        {
+          "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/8c2578c7-acc0-4619-b113-e5a83553e76d"
+        }
+      ],
+      "variants": []
+    }
+  ]
 }
