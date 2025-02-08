@@ -159,15 +159,6 @@
                     ]
                 },
                 {
-                    "code": "goldviolet",
-                    "label": "Gold Violet",
-                    "images": [
-                        {
-                            "image_url": "https://picsum.photos/id/409/500/500"
-                        }
-                    ]
-                },
-                {
                     "code": "orientalnude",
                     "label": "Oriental Nude",
                     "images": [
