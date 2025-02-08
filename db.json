@@ -123,6 +123,99 @@
                 }
             ],
             "variants": []
+        },
+         {
+            "id": 6,
+            "name": "Dompet Pintar LuxeLeather Guard",
+            "description": "Dompet pintar yang dirancang untuk keamanan dan kemudahan penggunaan. Dilengkapi dengan teknologi RFID-blocking untuk melindungi data kartu Anda dari pencurian digital. Fitur pelacak Bluetooth bawaan terhubung dengan aplikasi smartphone, sehingga Anda dapat dengan mudah menemukan dompet yang hilang. Terbuat dari kulit asli dengan desain minimalis nan elegan.",
+            "price": 275000,
+            "discount_price": 0,
+            "images": [
+                {
+                    "image_url": "https://picsum.photos/id/336/500/500"
+                }
+            ],
+            "variants": []
+        },
+        {
+            "id": 7,
+            "name": "Penyaring Udara HomePure FreshGuard",
+            "description": "HomePure FreshGuard dilengkapi dengan filter HEPA generasi terbaru yang mampu menyaring hingga 99,97% partikel debu, alergen, dan polusi udara. Alat ini juga memiliki filter karbon aktif untuk menghilangkan bau tidak sedap serta mode malam yang beroperasi dengan suara senyap. Cocok untuk ruangan berukuran hingga 50 meter persegi.",
+            "price": 275000,
+            "discount_price": 0,
+            "images": [
+                {
+                    "image_url": "https://picsum.photos/id/401/500/500"
+                }
+            ],
+            "variants": [
+                {
+                    "code": "bluecaramel",
+                    "label": "Blue Caramel",
+                    "images": [
+                        {
+                            "image_url": "https://picsum.photos/id/401/500/500"
+                        }
+                    ]
+                },
+                {
+                    "code": "goldviolet",
+                    "label": "Gold Violet",
+                    "images": [
+                        {
+                            "image_url": "https://picsum.photos/id/409/500/500"
+                        }
+                    ]
+                },
+                {
+                    "code": "orientalnude",
+                    "label": "Oriental Nude",
+                    "images": [
+                        {
+                            "image_url": "https://picsum.photos/id/444/500/500"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "PowerMax Portable Charger 20.000mAh Ultra",
+            "description": "Power bank berkapasitas besar yang dapat mengisi daya hingga 4 perangkat sekaligus. Dilengkapi dengan teknologi Power Delivery (PD) dan Quick Charge 3.0 untuk pengisian cepat. Desainnya ringkas dengan bodi tahan benturan serta indikator LED untuk menunjukkan sisa daya.",
+            "price": 90700,
+            "discount_price": 50000,
+            "images": [
+                {
+                    "image_url": "https://picsum.photos/id/445/500/500"
+                }
+            ],
+            "variants": []
+        },
+        {
+            "id": 9,
+            "name": "Bantal Memory Foam SilkDream Supreme",
+            "description": "Bantal berkualitas premium dengan inti memory foam yang mengikuti bentuk kepala dan leher Anda, memberikan dukungan optimal untuk tidur nyenyak. Dilengkapi dengan sarung bantal hypoallergenic yang dapat dilepas dan dicuci, serta teknologi pendingin yang menjaga suhu tetap nyaman sepanjang malam.",
+            "price": 130000,
+            "discount_price": 120000,
+            "images": [
+                {
+                    "image_url": "https://picsum.photos/id/486/500/500"
+                }
+            ],
+            "variants": []
+        },
+        {
+            "id": 10,
+            "name": "Ransel Anti-Maling UrbanVibe SecurePack",
+            "description": "Ransel inovatif dengan fitur keamanan tingkat tinggi seperti ritsleting tersembunyi, kantong rahasia, dan bahan tahan potong. Port USB eksternal memungkinkan pengisian daya perangkat saat bepergian. Desain ergonomis dan bantalan punggung empuk memberikan kenyamanan maksimal meskipun digunakan sepanjang hari.",
+            "price": 275000,
+            "discount_price": 0,
+            "images": [
+                {
+                    "image_url": "https://picsum.photos/id/619/500/500"
+                }
+            ],
+            "variants": []
         }
     ]
 }
